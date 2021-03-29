@@ -1,0 +1,6 @@
+com/mycompany/retorno/strategy/template/method/Boleto.class
+com/mycompany/retorno/strategy/template/method/Principal.class
+com/mycompany/retorno/strategy/template/method/ProcessadorBoletos.class
+com/mycompany/retorno/strategy/template/method/LeituraRetorno.class
+com/mycompany/retorno/strategy/template/method/LeituraRetornoBancoBrasil.class
+com/mycompany/retorno/strategy/template/method/LeituraRetornoBradesco.class
